@@ -1,5 +1,5 @@
 
-#### This is the first project from FCC's "Data Analysis with Python" course.
+#### This is the third project from FCC's "Data Analysis with Python" course.
 
 ### Assignment
 
